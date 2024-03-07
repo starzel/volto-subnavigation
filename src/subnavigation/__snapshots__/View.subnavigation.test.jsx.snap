@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Breadcrumbs renders a breadcrumbs component 1`] = `
+<div
+  className="block subnavigation"
+>
+  <h3>
+    Subnavigation
+  </h3>
+</div>
+`;
