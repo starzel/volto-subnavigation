@@ -1,5 +1,5 @@
 {
-  "name": "volto-subnavigation",
+  "name": "@starzel/volto-subnavigation",
   "version": "0.1.0",
   "description": "volto-subnavigation: Volto add-on",
   "main": "src/index.js",
